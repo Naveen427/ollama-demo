@@ -1,0 +1,3 @@
+#GET http://localhost:8080/chat?message="hi, what is your last trained date"
+
+GET http://localhost:8080/chat?message="hi, what is the best thing you know"
